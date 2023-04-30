@@ -1,6 +1,6 @@
 # Chronicles-of-Python
 
-##Group Members
+## Group Members
 
 ### 1. Yash Borikar (202051206)
 ### 2. Tirth Joshi (2020251193)
